@@ -1,0 +1,17 @@
+../Core/Src/main.c:90:10:Read_Potentiometer	8	static
+../Core/Src/main.c:139:5:Match_Song_Name	24	static
+../Core/Src/main.c:148:6:Read_Keypad	64	static
+../Core/Src/main.c:185:6:LCD16_PrintNoteStr	16	static
+../Core/Src/main.c:208:6:PlayNoteHistory	32	static
+../Core/Src/main.c:268:6:Play_Song	56	static
+../Core/Src/main.c:346:9:Play_Song_With_Interrupt	48	static
+../Core/Src/main.c:426:5:main	216	static
+../Core/Src/main.c:944:6:SystemClock_Config	88	static
+../Core/Src/main.c:990:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:1042:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:1090:13:MX_TIM3_Init	64	static
+../Core/Src/main.c:1149:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:1182:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:1217:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:1286:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:1313:6:Error_Handler	4	static,ignoring_inline_asm
