@@ -10,10 +10,10 @@ stm32, python developing with  buzzer, 4x4Keyboard, Potentiometer, LCD
     3.Function B continue tune setting
 
 A:
-    play 0~9 song 
+    play 0-9 song 
 
 B:
-    setting 0~9 tune
+    setting 0-9 tune
 
 C:
     1.after pressing C select * for looping and playing the song list 0~9
