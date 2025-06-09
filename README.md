@@ -1,8 +1,8 @@
 # Piano_stm32
 stm32, python developing with  buzzer, 4x4Keyboard, Potentiometer, LCD
 
-0~9: 
-    Do~high Mi
+0-9: 
+    Do-high Mi
 
 #: 
     1.Delete LCD output, Store Key
