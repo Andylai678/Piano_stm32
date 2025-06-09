@@ -16,8 +16,8 @@ B:
     setting 0-9 tune
 
 C:
-    1.after pressing C select * for looping and playing the song list 0~9
-    2.after pressing C select # for randomly playing the song list 0~9
+    1.after pressing C select * for looping and playing the song list 0-9
+    2.after pressing C select # for randomly playing the song list 0-9
 
 D: 
     after run the python code voice_recognize_test1.py request stm32 instruction, 
